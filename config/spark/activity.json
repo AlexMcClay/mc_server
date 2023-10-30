@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "AlexMcClay2000",
+      "uniqueId": "38e5ff52-c61c-4097-bd5f-97fa3a32d8c0"
+    },
+    "time": 1698693463221,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/kBCTLPLEsT"
+    }
+  }
+]
